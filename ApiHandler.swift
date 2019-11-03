@@ -1,9 +1,4 @@
-//
-//  ApiHandler.swift
-//  StreamShare
-//
-//  Created by webastral on 15/12/17.
-//  Copyright © 2017 webastral. All rights reserved.
+
 //
 
 import Foundation
